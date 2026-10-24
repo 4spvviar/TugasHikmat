@@ -16,6 +16,7 @@ SDK .NET 8
 SQL Server (misalnya SQL Server Express atau LocalDB)
 Visual Studio 2022 (opsional, disarankan)
 
+Struktur proyek
 TugasHikmat/
 ├── TugasHikmat/
 │   ├── Properties/            # Pengaturan dan resource aplikasi
