@@ -1,6 +1,6 @@
 # TugasHikmat
 Aplikasi desktop berbasis Windows Forms (C#) yang terhubung dengan database SQL Server.
-[Aplikasi inventory untuk menyimpan barang atau menambahkan baran]
+[Aplikasi inventory untuk menyimpan barang atau menambahkan barang]
 
 Teknologi
 Komponen	Keterangan
